@@ -10,8 +10,8 @@
         { "text": "Our Initiatives", "href": "#about" },
         { "text": "Partners and Collaborators", "href": "/partners" },
         { "text": "Media and Impact", "href": "/media" },
-        { "text": "Get Involved", "href": "#about" },
-        { "text": "Contact Us", "href": "#about" }
+        { "text": "Get Involved", "href": "/get_Involved" },
+        { "text": "Contact Us", "href": "/get_Involved#contact_us" }
     ],
     "blogs": [
         {
