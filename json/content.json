@@ -1,0 +1,109 @@
+{
+    "heading1": "MN8",
+    "navItems": [
+        { "text": "About Us", "href": "/about" },
+        { "text": "Our Initiatives", "href": "#" },
+        { "text": "Partners and Collaborators", "href": "/partners" }
+    ],
+    "links": [
+        { "text": "About Us", "href": "/about" },
+        { "text": "Our Initiatives", "href": "#about" },
+        { "text": "Partners and Collaborators", "href": "/partners" },
+        { "text": "Media and Impact", "href": "/media" },
+        { "text": "Get Involved", "href": "#about" },
+        { "text": "Contact Us", "href": "#about" }
+    ],
+    "blogs": [
+        {
+            "id": "help-people",
+            "title": "Help out the people who really need it on time.",
+            "date": "Feb 18, 2018",
+            "category": "Charity, NGO",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod... ",
+            "image": "assets/images/DSC_0344.JPG"
+        },
+        {
+            "id": "volunteer-change",
+            "title": "Volunteer to make a change.",
+            "date": "Mar 22, 2019",
+            "category": "Volunteer, Community",
+            "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip...",
+            "image": "assets/images/DSC_0344.JPG"
+        },
+        {
+            "id": "support-education",
+            "title": "Support local education programs.",
+            "date": "Apr 10, 2020",
+            "category": "Education, Support",
+            "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur...",
+            "image": "assets/images/DSC_0342.JPG"
+        }
+    ],
+    "testimonials": [
+        {
+            "avatar": "../assets/images/CEO.jpeg",
+            "name": "Manav Chandra",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "avatar": "../assets/images/Developer2.jpeg",
+            "name": "Ayush Parmar",
+            "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+            "avatar": "../assets/images/Developer1.jpeg",
+            "name": "Ashu Singh",
+            "text": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+        },
+        {
+            "avatar": "../assets/images/CyberExpert.jpeg",
+            "name": "Siddharth Chandra",
+            "text": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "avatar": "../assets/images/Developer1.jpeg",
+            "name": "Jenish Khunt",
+            "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+        }
+    ],
+    "campaigns": [
+        {
+            "title": "Peer-to-Peer Fundraising is a Journey",
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat ut alias commodi natus, iure temporibus rerum atque, odit quas et illum molestiae assumenda dolorum distinctio nostrum fugiat quos modi similique. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat ut alias commodi natus, iure temporibus rerum atque, odit quas et illum molestiae assumenda dolorum distinctio nostrum fugiat quos modi similique.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat ut alias commodi natus, iure temporibus rerum atque, odit quas et illum molestiae assumenda dolorum distinctio nostrum fugiat quos modi similique.",
+            "image": "../assets/images/DSC_0333.jpg"
+        },
+        {
+            "title": "Helping Hands for Education",
+            "description": "When you write something that’s unexpected, your audience will likely stop scrolling and take a moment to learn more. In the worst cases, this approach to content writing falls under the nefarious clickbait category. But in the best cases, it can delight and engage the viewer. With a debut in time for the global games, Nike featured the world’s greatest athletes (well, all the great Nike-sponsored athletes) talking about they are motivated by victory and that there’s nothing wrong with wanting to win. Writing those four words — winning isn’t for everyone — fosters a strong reaction. After all, there are far more people who don’t win than do. But audiences are also likely to watch more of the videos to learn what Nike is really talking about.",
+            "image": "../assets/images/DSC_0342.jpg"
+        },
+        {
+            "title": "Clean Water for Communities",
+            "description": "A 2024 study published in Science Advance conducted over 30,000 field experiments with The Washington Post and Upworthy headlines. It found that readers prefer simpler headlines (more common words and more readable writing) over complex ones. They also paid more attention to and more deeply processed the simpler headlines. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat ut alias commodi natus, iure temporibus rerum atque, odit quas et illum molestiae assumenda dolorum distinctio nostrum fugiat quos modi similique.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat ut alias commodi natus, iure temporibus rerum atque, odit quas et illum molestiae assumenda dolorum distinctio nostrum fugiat quos modi similique.",
+            "image": "../assets/images/DSC_0344.jpg"
+        }
+    ],
+    "sections": [
+    {
+      "title": "Our Mission",
+      "icon": "ion-ios-bulb",
+      "content": "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      "linkText": "Learn More",
+      "linkHref": "#"
+    },
+    {
+      "title": "Make Donations",
+      "icon": "ion-ios-cash",
+      "content": "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      "linkText": "Learn More",
+      "linkHref": "#"
+    },
+    {
+      "title": "We Need Volunteers",
+      "icon": "ion-ios-contacts",
+      "content": "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+      "linkText": "Learn More",
+      "linkHref": "#"
+    }
+  ]
+}

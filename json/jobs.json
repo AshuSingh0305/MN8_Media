@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "companyName": "MN8 Foundation",
+        "jobTitle": "Data Analyst",
+        "location": "Ahmedabad, Gujarat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet?",
+        "requirements": ["SQL", "Python", "Tableau"],
+        "applyLink": "https://apply.company-b.com"
+    },
+    {
+        "id": 2,
+        "companyName": "Voice Of People",
+        "jobTitle": "Software Engineer",
+        "location": "Bnagalore, Karnataka",
+        "description": "Develop and maintain web applications...",
+        "requirements": ["HTML", "CSS", "JavaScript"],
+        "applyLink": "https://apply.company-a.com"
+    },
+    {
+        "id": 3,
+        "companyName": "MN8 Foundation",
+        "jobTitle": "Cyber Expret",
+        "location": "Ahmedabad, Gujarat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet?",
+        "requirements": ["SQL", "Python", "Tableau"],
+        "applyLink": "https://apply.company-b.com"
+    },
+    {
+        "id": 1,
+        "companyName": "MN8 Foundation",
+        "jobTitle": "Data Analyst",
+        "location": "Ahmedabad, Gujarat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet?",
+        "requirements": ["SQL", "Python", "Tableau"],
+        "applyLink": "https://apply.company-b.com"
+    },
+    {
+        "id": 2,
+        "companyName": "Voice Of People",
+        "jobTitle": "Software Engineer",
+        "location": "Bnagalore, Karnataka",
+        "description": "Develop and maintain web applications...",
+        "requirements": ["HTML", "CSS", "JavaScript"],
+        "applyLink": "https://apply.company-a.com"
+    },
+    {
+        "id": 3,
+        "companyName": "MN8 Foundation",
+        "jobTitle": "Cyber Expret",
+        "location": "Ahmedabad, Gujarat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni iste iusto veniam consectetur excepturi eum ut sed, ipsa itaque vero, harum blanditiis sequi voluptatem debitis explicabo temporibus laudantium quia amet?",
+        "requirements": ["SQL", "Python", "Tableau"],
+        "applyLink": "https://apply.company-b.com"
+    }
+]
